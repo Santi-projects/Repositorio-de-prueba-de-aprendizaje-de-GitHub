@@ -1,4 +1,4 @@
-print('Esto es un archivo de prueba')
+print('Esto es un archivo de prueba, ya se encuentra en GitHub')
 print('En la rama main se trabaja en conseguir los primeros n primos')
 print('Se van a buscar los primeros n primos')
 
